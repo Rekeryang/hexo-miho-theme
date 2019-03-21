@@ -1,4 +1,4 @@
-![text](http://blog.rekeryang.com/images/github.jpg)
+![text](http://blog.rekeryang.com/images/github.png)
 hexo-text-theme
 ================
 

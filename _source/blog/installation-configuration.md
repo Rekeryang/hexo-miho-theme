@@ -10,7 +10,7 @@ tags:
 cover_picture:
 top: 1
 ---
-![miho](https://blog.rekeryang.com/images/github.jpg)
+![miho](https://blog.rekeryang.com/images/github.png)
 
 ### 一. 主题简介
 &emsp;&emsp;MiHo 是一款单栏响应式的[Hexo](https://hexo.io)主题；基于 Hexo 3.0+ 制作，兼容移动端浏览；主题的代码托管在[GitHub](https://github.com/rekeryang/hexo-text-theme)上，
