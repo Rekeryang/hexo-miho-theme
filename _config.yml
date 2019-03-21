@@ -117,9 +117,9 @@ disqus: false
 # gitment  https://github.com/imsun/gitment
 gitment:
   owner: rekeryang   #你的 GitHub ID
-  repo: 'Rekeryang/jekyll-text-theme'   #存储评论的 repo
-  client_id: 'a437850b20b2a26e64d2' #client ID
-  client_secret: '303e91d42925482a0bf59b1e3157010d2f5c3e3d'  #client secret
+  repo: 'rekeryang-hexo.github.io'   #存储评论的 repo
+  client_id: '37794b14c717808b30bd' #client ID
+  client_secret: '53d502cbcd99e1dd928d5e8b5f918fb351f3f095'  #client secret
 
 # Analytics | 分析
 # 站长分析，输入站点id
