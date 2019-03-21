@@ -2,8 +2,8 @@
 hexo-text-theme
 ================
 
-MiHo is a single and responsive design theme for [Hexo](//hexo.io).
-MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[Rekeryang's Blog](https://blog.rekeryang.com/).
+Text is a single and responsive design theme for [Hexo](//hexo.io).
+Text requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[Rekeryang's Blog](https://blog.rekeryang.com/).
 中文文档请[查看](https://blog.rekeryang.com/2019/03/21/installation-configuration/).
 
 ## Summary
@@ -34,7 +34,7 @@ MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[R
 
 ### Installation Theme
 ``` bash
-$ git clone https://github.com/rekeryang/hexo-text-theme.git themes/miho
+$ git clone https://github.com/rekeryang/hexo-text-theme.git themes/text
 ```
 
 ### Update
@@ -53,7 +53,7 @@ npm install hexo-generator-json-content --save
 ### Theme Config
 Change theme field in Hexo root's `_config.yml` file.
 ``` bash
-theme: miho
+theme: text
 ```
 
 ## Configuration
@@ -81,7 +81,7 @@ banner_img: images/banner.jpg
 # Menu setting | 菜单设置
 #  name:                  Font Awesome icon | Font Awesome 图标
 #    title: Home          Title | 标题
-#    url: //minhow.com    Url, absolute or relative path | 链接，绝对或相对路径
+#    url: //rekeryang.com    Url, absolute or relative path | 链接，绝对或相对路径
 #    target: true         Whether to jump out | 是否跳出
 menu:
   home:
@@ -199,7 +199,7 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2017 MinHow
+copyright: 2019 rekeryang
 ```
 
 #### Article cover picture
@@ -247,15 +247,15 @@ disqus: false
 ``` bash
 ---
 title: Hello World
-date: 2017-06-18
+date: 2019-3-21
 categories: First
 tags:
     - First
     - Second
 cover_picture: /images/banner.jpg
 ---
- MinHow-This is a summary
-<!-- more -->
+ This is a summary
+
 ```
 
 ## Contributing
