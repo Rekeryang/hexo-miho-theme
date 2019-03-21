@@ -1,10 +1,10 @@
-![MiHo](http://cloud.minhow.com/images/miho/theme/github.jpg)
-hexo-theme-miho
+![text](http://blog.rekeryang.com/images/github.jpg)
+hexo-text-theme
 ================
 
 MiHo is a single and responsive design theme for [Hexo](//hexo.io).
-MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[MinHow's Blog](https://blog.minhow.com/).
-中文文档请[查看](https://blog.minhow.com/2017/08/01/blog/installation-configuration/).
+MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[Rekeryang's Blog](https://blog.rekeryang.com/).
+中文文档请[查看](https://blog.rekeryang.com/2019/03/21/installation-configuration/).
 
 ## Summary
 * [General](#general)
@@ -15,8 +15,6 @@ MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[M
 * [License](#license)
 
 ## General
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg?style=flat-square)](#)
-[![Author](https://img.shields.io/badge/author-MinHow-blue.svg?style=flat-square)](https://minhow.com)
 
 [![Hexo](https://img.shields.io/badge/hexo-3.0+-green.svg?style=flat-square)](https://hexo.io)
 [![node.js](https://img.shields.io/badge/node.js-6.0+-green.svg?style=flat-square)](https://nodejs.org/)
@@ -36,12 +34,12 @@ MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[M
 
 ### Installation Theme
 ``` bash
-$ git clone https://github.com/WongMinHo/hexo-theme-miho.git themes/miho
+$ git clone https://github.com/rekeryang/hexo-text-theme.git themes/miho
 ```
 
 ### Update
 ``` bash
-cd themes/miho
+cd themes/text
 git pull
 ```
 
@@ -59,11 +57,11 @@ theme: miho
 ```
 
 ## Configuration
-Modify settings in `themes/miho/_config.yml`，Please use it as needed.
+Modify settings in `themes/text/_config.yml`，Please use it as needed.
 
 ```
 # hexo-theme-miho
-# https://github.com/wongminho/hexo-theme-miho
+# https://github.com/rekeryang/hexo-text-theme
 
 # Favicon of your site | 网站icon
 favicon: /favicon.ico
@@ -71,11 +69,11 @@ favicon: /favicon.ico
 # Header
 
 # Keywords of your site | 网站关键字
-keywords: MinHow,MinHow's Blog
+keywords: rekeryang's Blog
 # Head headline | 头部标题
-header_title: MinHow's Blog
+header_title:  rekeryang's Blog
 # Head description | 头部描述
-header_description: 一个专注 WEB 开发的技术博客
+header_description: 一个专注互联网开发的技术博客
 # Link to your logo | logo地址
 logo: images/logo.png
 # Link to your banner_img | 首页banner图地址
@@ -101,24 +99,23 @@ menu:
 # Social setting, use to display social information | 社交设置，用来展示社交信息
 #  name:                  Font Awesome icon | Font Awesome 图标
 #    title: Home          Icon title | 图标标题
-#    url: //minhow.com    Url, absolute or relative path | 链接，绝对或相对路径
+#    url: //blog.rekeryang.com    Url, absolute or relative path | 链接，绝对或相对路径
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: MinHow
-    url: //minhow.com
+    title: Rekeryang
+    url: //rekeryang.com
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //github.com/rekeryang
     target: true
   weibo:
     title: Weibo
-    url: //weibo.com/WongMinHo
-    target: true
+    url: //weibo.com/rekeycloud
   twitter:
     title: Twitter
-    url: //twitter.com/huangminhow
+    url: //twitter.com/rekeryang
     target: true
   #qq:
   #weixin:
@@ -266,5 +263,3 @@ All kinds of contributions (enhancements, new features, documentation & code imp
 
 ## License
 Open sourced under the GPL v3.0 license.
-
-
